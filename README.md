@@ -1,6 +1,6 @@
 # Ubuntu Server 22 Pi Image
 
-A custom OVS-enabled Raspberry Pi Image with Docker, a bridge and L2 enabled by default.
+A custom OVS-enabled Raspberry Pi Image with Docker, a bridge and L2 capabilities enabled by default.
 
 ## Instructions
 
